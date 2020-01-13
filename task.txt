@@ -1,0 +1,9 @@
+crear agenda con funciones como:
+
+agregar contactos
+notas
+listas de tareas
+diseño profesional
+con imagen o color de fondo
+con un CRUD en cada accion
+antes del 14 a las 12
